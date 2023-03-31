@@ -1,0 +1,56 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.box {
+    margin-top: 40vh;
+}
+
+.buttons {
+    margin-top: 10px;
+}
+
+#increment-btn {
+    padding: 25px;
+    font-size: 20px;
+    background-color: rgb(11, 166, 0);
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    border: none;
+    border-radius: 10px;
+}
+
+
+
+#decrement-btn {
+    padding: 25px;
+    font-size: 20px;
+    background-color: rgb(191, 33, 2);
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    border: none;
+    border-radius: 10px;
+}
+
+#save-btn {
+    padding: 25px;
+    font-size: 20px;
+    background-color: rgb(4, 63, 172);
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    border: none;
+    border-radius: 10px;
+}
+
+.entries {
+    margin-top: 10px;
+}
